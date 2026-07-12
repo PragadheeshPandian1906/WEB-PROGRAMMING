@@ -1,0 +1,7 @@
+Basic java programs:
+1.Write java program to calculate the Square of a number.
+2.Write java program to add two numbers, take input as command line argument.
+3.Write java program to multiply two numbers, numbers should be taken from standard input.
+4.Write Java program to calculate the perimeter and the area of the circle. The radius of the circle is taken as user input. Use two different functions to calculate the perimeter and area. Define the value of PI as class constant.
+5.Create classes for different shapes like Circle, Rectangle, and Triangle. Each class should have necessary attributes and methods to calculate area and perimeter.
+Create objects of different shapes and perform calculations.
