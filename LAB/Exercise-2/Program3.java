@@ -31,7 +31,10 @@ public class Program3 {
                 freq.put(nums[i], (freq.get(nums[i]))+1);
             }
         }
-        Iterator<Map.Entry<Integer,Integer>> it=freq.entrySet().iterator();
+        System.out.println("Element\tFrequency");
+        for (Map.Entry<Integer, Integer> entry : freq.entrySet()) {
+            System.out.println(entry.getKey() + "\t\t" + entry.getValue());
+        }
         
         
     }
